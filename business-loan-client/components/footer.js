@@ -4,11 +4,11 @@ export default function Footer() {
     return(
         <footer className={styles.footer}>
         <a
-          href="https://linkedin.com/in/benjaminmahler"
+          href="https://www.linkedin.com/in/yevhenii-molchanov/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Submitted by Ben Mahler
+          Submitted by Yevhenii
         </a>
       </footer>
     );
